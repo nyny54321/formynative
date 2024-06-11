@@ -1,1 +1,6 @@
-hello
+sn://ssh?eNpjYGBgSNQrTtcrTi0qSy1Kz9cr-D4BKJaTmZ9XXJwRn5KYlphWnJhmbLSZESiMxG0E8buK032AKhXeLtjzdu-kxkYA-uccMQ
+sn://ssh?eNpjYGBgSNTLzNMrTi0qSy1Kz9cr-D4BKJaTmZ9XXJwRn5KYlphWnJhmbLSZESiMxG0E8bsy83yAKhXeLtjzdu-kxkYA-dEcKw
+sn://ssh?eNpjYGBgKE7XLS7O0APi3MQKvYrKX2IgQTBPNyUxLTGtODHN2GgzI1AUidsI4k8OzsxLTyzIL0pVCA728HWMeLtgz9s9OxsbAdSMHu8
+sn://wg?eNpjYmBgMDQz0jM0tdQztDTWM9yQwcnAsNPQHChkpmegZ6RvbMSlYGRmYGZlYm5gYGVoaGBlkWqWYmVqmWhplWJummaVkmqYaGVhYKRvaGSx1szDqyrZzCvKwjc3r8op1TPcOMTUyKfK3yTXOcDQPMPQLSQ7NDcwNcLZPdR2bVJuhL-ztpuhW4Wrr5tlSmWmt5GHqb5hcGhJlYeBV2lYvqlhhlF5QFp6Zb5tIwMrA0MjI9C5k93z81MU3PKLFBxL8nMV3i7Y-3bLUgjZ2AgAmNg-ow
+trojan://b7b592e0-2744-11ef-8238-1239d0255272@sg3-trojan.bonds.id:443/?type=tcp&security=tls&sni=truemoney.com.mm&allowInsecure=1#Singapore%20%20howdy
+trojan://opentunnel.net-dafafsaf323@sgt-1.optnl.com:443/?type=tcp&security=tls&sni=yewin.me&allowInsecure=1#Singapore%20%20open%20tunnel%20
